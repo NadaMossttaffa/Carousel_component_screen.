@@ -53,7 +53,7 @@ h4 img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 50px; /* Adjust height as needed */
+    height: 50px; 
 }
 
 .item {
@@ -70,7 +70,7 @@ h4 img {
 }
 
 .carousel-item {
-    background-color: rgba(0, 0, 0, 0.2); /* Add background to make the text visible */
+    background-color: rgba(0, 0, 0, 0.2);
     padding: 20px 0;
 
 .carousel-control-prev,
