@@ -66,23 +66,22 @@ h4 img {
     width: 2px;
     height: 100%;
     background-color: white;
-    margin: 0 10px; /* Adjust margin as needed */
+    margin: 0 10px;
 }
 
 .carousel-item {
     background-color: rgba(0, 0, 0, 0.2); /* Add background to make the text visible */
-    padding: 20px 0; /* Adjust padding to match content */
-}
+    padding: 20px 0;
 
 .carousel-control-prev,
 .carousel-control-next {
-    width: 5%; /* Reduce the width to avoid overlapping */
+    width: 5%; 
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     background-color: rgb(72, 71, 71);
-    border-radius: 50%; /* Add border-radius to icons */
+    border-radius: 50%; 
     width: 30px;
     height: 30px;
 }
